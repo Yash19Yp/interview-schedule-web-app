@@ -3,7 +3,7 @@ I'm form cgpit. I'm currently in 7th SEM B.tech(Information technology).
 
 Without vesting more time lets talk about project.
 
-I have created this project in php, html5, css ,mysqlite.
+I have created this project in php, html5, css , MySQL.
 
 On the first page there is a separeate login for Student and recruiter..
 
