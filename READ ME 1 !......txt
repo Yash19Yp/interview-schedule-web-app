@@ -1,0 +1,21 @@
+Hello my name is Yash Pancholi.
+I'm form cgpit. I'm currently in 7th SEM B.tech(Information technology).
+
+Without vesting more time lets talk about project.
+
+I have created this project in php, html5, css ,mysqlite.
+
+On the first page there is a separeate login for Student and recruiter..
+
+For login I already have created a user id and password which is ention below.
+
+For student LOgin id is : user1 
+password: user123
+
+for recruiters login id is: user2
+password: user234
+
+i have only added this 2 users so please kindly use this id and password for login.
+
+Thank you......
+ 					: )
